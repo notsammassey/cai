@@ -71,7 +71,7 @@
           <div class="stat-row"><span class="stat-lbl">Mean</span><span class="stat-val lo" id="stat-h-mean">—</span></div>
           <div class="stat-row"><span class="stat-lbl">Median</span><span class="stat-val lo" id="stat-h-median">—</span></div>
           <div class="stat-row"><span class="stat-lbl">Mode</span><span class="stat-val lo" id="stat-h-mode">—</span></div>
-        </div>
+        </div> 
       </div>
       <p class="footnote" id="stat-chamber-diff"></p>
     </div>
